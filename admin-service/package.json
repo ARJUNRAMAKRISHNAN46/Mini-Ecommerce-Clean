@@ -17,10 +17,12 @@
     "dotenv": "^16.4.1",
     "express": "^4.18.2",
     "kafkajs": "^2.2.4",
-    "mongoose": "^8.1.1"
+    "mongoose": "^8.1.1",
+    "ts-node": "^10.9.2"
   },
   "devDependencies": {
     "nodemon": "^3.0.3",
-    "ttypescript": "^1.5.15"
+    "ttypescript": "^1.5.15",
+    "typescript": "^5.4.2"
   }
 }
